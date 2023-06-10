@@ -1,0 +1,8 @@
+
+
+Github
+疎通記念
+
+
+sername for 'https://github.com': ユーザー名
+Password for 'https://mkato1013@github.com': 先ほどのトークン
